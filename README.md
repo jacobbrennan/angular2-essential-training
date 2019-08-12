@@ -1,3 +1,8 @@
+ng new 'name'
+ng serve 
+https://localhost:4002
+
+
 # Angular Essential Training
 
 This is the repository for my course **Angular Essential Training**  
